@@ -55,6 +55,13 @@
     align-items: center;
 }
 
+.open-post2{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .open-post__title {
     font-weight: 600;
     margin-bottom: 10px;

@@ -53,3 +53,20 @@
   margin-bottom: 7px;
   display: block;
 }
+
+.user-component__text {
+  position: relative;
+}
+
+.user-component__icon {
+  position:absolute;
+  color:tomato;
+  width:1em;
+  border-radius: 3em;
+  padding:0.1px 0.2px;
+  line-height:1.25em;
+  border:1px solid tomato;
+  text-align:center;
+  right:-23px;
+  bottom:0px;
+}
